@@ -7,6 +7,8 @@ This repository contains basic codes in the topics listed below done as part of 
 - Differential equations - Euler and Runge Kutta methods
 - Introduction to solving Partial Differential Equations
 - Finding roots of polynomials and transcendental equations
+
+  
 The above list is incomplete as the course is still ongoing
 
 ## Main Project
